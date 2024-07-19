@@ -1,0 +1,357 @@
+.desktop1-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .desktop1-desktop1 {
+    width: 100%;
+    height: 1367px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+    background-color: rgba(241, 241, 241, 0.9900000095367432);
+  }
+  .desktop1-frame1 {
+    top: -36.735225677490234px;
+    left: 1176.4947509765625px;
+    width: 97px;
+    height: 96.67170715332031px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .desktop1-rectangle27 {
+    top: 460px;
+    left: -1px;
+    width: 889px;
+    height: 383px;
+    position: absolute;
+  }
+  .desktop1-image69606551 {
+    top: 638.0333251953125px;
+    left: -5.6843418860808015e-14px;
+    width: 639px;
+    height: 449px;
+    position: absolute;
+  }
+  .desktop1-image5767931removebgpreview1 {
+    top: 122px;
+    left: 527px;
+    width: 346px;
+    height: 353px;
+    position: absolute;
+    border-radius: 67.67019653320312px;
+  }
+  .desktop1-text {
+    top: 179px;
+    left: 84px;
+    color: rgba(0, 0, 0, 1);
+    width: 458px;
+    height: auto;
+    position: absolute;
+    font-size: 38.66868591308594px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Orienta;
+    font-weight: 400;
+    line-height: 100%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1-text05 {
+    top: 861px;
+    left: 333px;
+    color: rgba(0, 0, 0, 1);
+    width: 221px;
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Monda;
+    font-weight: 400;
+    line-height: 110.00000238418579%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1-image437910pelzm3491removebgpreview11 {
+    top: 494px;
+    left: 467px;
+    width: 343px;
+    height: 336px;
+    position: absolute;
+    border-radius: 167.2420654296875px;
+  }
+  .desktop1-text07 {
+    top: 542px;
+    left: 37px;
+    color: rgba(0, 0, 0, 1);
+    width: 602px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Outfit;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1-firstpagenav {
+    top: 0px;
+    left: -1px;
+    width: 889px;
+    height: 87px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .desktop1-rectangle3 {
+    top: 0px;
+    left: 0px;
+    width: 889px;
+    height: 87px;
+    position: absolute;
+  }
+  .desktop1-group20 {
+    top: 33px;
+    left: 787px;
+    width: 87px;
+    height: 31px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(3, 3, 3, 1);
+  }
+  .desktop1-text20 {
+    top: 5.535714149475098px;
+    left: 15.41772174835205px;
+    color: rgba(255, 255, 255, 1);
+    width: 56px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1-group21 {
+    top: 33px;
+    left: 682px;
+    width: 96px;
+    height: 31px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(217, 209, 1, 1);
+  }
+  .desktop1-text22 {
+    top: 6px;
+    left: 12px;
+    color: rgba(0, 0, 0, 1);
+    width: 72px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1-v1033bb0851removebgpreview1 {
+    top: 15px;
+    left: 0px;
+    width: 68px;
+    height: 44px;
+    position: absolute;
+  }
+  .desktop1-text24 {
+    top: 20px;
+    left: 17.176549911499023px;
+    color: rgba(219, 208, 208, 1);
+    width: 222px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Arya;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1-text26 {
+    top: 38px;
+    left: 451px;
+    color: rgba(255, 255, 255, 1);
+    width: 118px;
+    height: auto;
+    position: absolute;
+    font-size: 13.534039497375488px;
+    font-style: Medium;
+    text-align: center;
+    font-family: Be Vietnam Pro;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1-text28 {
+    top: 38px;
+    left: 550px;
+    color: rgba(255, 255, 255, 1);
+    width: 101px;
+    height: auto;
+    position: absolute;
+    font-size: 13.534039497375488px;
+    font-style: Medium;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1-group22 {
+    top: 305px;
+    left: 183px;
+    width: 130px;
+    height: 41px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(2, 2, 2, 1);
+  }
+  .desktop1-text30 {
+    top: 10px;
+    left: 13px;
+    color: rgba(255, 255, 255, 1);
+    width: 97px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1-rectangle33 {
+    top: 920px;
+    left: 326px;
+    width: 234px;
+    height: 234px;
+    position: absolute;
+    border-radius: 1000px;
+  }
+  .desktop1-ellipse1 {
+    top: 1272px;
+    left: 392px;
+    width: 11px;
+    height: 12px;
+    position: absolute;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .desktop1-ellipse2 {
+    top: 1272px;
+    left: 417px;
+    width: 11px;
+    height: 12px;
+    position: absolute;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .desktop1-ellipse3 {
+    top: 1272px;
+    left: 442px;
+    width: 11px;
+    height: 12px;
+    position: absolute;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .desktop1-ellipse4 {
+    top: 1272px;
+    left: 468px;
+    width: 11px;
+    height: 12px;
+    position: absolute;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .desktop1-text32 {
+    top: 1168px;
+    left: 287px;
+    color: rgba(0, 0, 0, 1);
+    width: 334px;
+    height: auto;
+    position: absolute;
+    font-size: 17px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Monda;
+    font-weight: 400;
+    line-height: 110.00000238418579%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1-image4 {
+    top: 1154px;
+    left: 623px;
+    width: 36px;
+    height: 25px;
+    position: absolute;
+  }
+  .desktop1-image6 {
+    top: 1154px;
+    left: 266px;
+    width: 36px;
+    height: 25px;
+    position: absolute;
+  }
+  .desktop1-text34 {
+    top: 39px;
+    left: 372px;
+    color: rgba(255, 255, 255, 1);
+    width: 118px;
+    height: auto;
+    position: absolute;
+    font-size: 13.534039497375488px;
+    font-style: Medium;
+    text-align: center;
+    font-family: Be Vietnam Pro;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }

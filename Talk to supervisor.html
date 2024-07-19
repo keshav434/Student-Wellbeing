@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <LINK rel="stylesheet" href="CSS FILES/Supervisor.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <label class="logo">MyMentalPal</label>
+            <img class="Logopic" src="Images/v1033-bb-085__1_-removebg-preview.png">
+            <ul>
+                <li><a href="Account.html" class="active">Home</a></li>
+                <li><a href="Resouces.html" class="active1">Resources</a></li>
+                <li><a href="Meditation.html" class="active2">Meditation</a></li>
+                <li><a href="Talk to supervisor.html" class="active3">Talk to Supervisor</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="medmsg">
+        <h1 class="medmsg">Talk to Supervisor</h1>
+        <div>
+
+            <div class="msgsystem">
+                <div class="msgbox">
+                    <h2 class="textheader">Feedback and meetings</h2>
+                    <form action="mailto:premsagarkeshav@gmail.com?subject=Feedback and meetings!" method="post" enctype="multipart/form-data">
+                        <div class="input-box1">
+                            <label class="myid"> Student ID </label>
+                            <input class="myidbox" name="myid" type="text" required>
+                        </div>
+                        <div class="input-box2">
+                            <label class="mydate">Meeting date</label>
+                            <input class="mydatebox" name="mydate" type="date" required>
+                        </div>
+                        <div class="input-box3">
+                            <label class="mytime">Meeting time</label>
+                            <input class="mytimebox" name="mytime" type="time" required>
+                        </div>
+                        <div class="input-box4">
+                            <label class="finalmsg">Message to the Supervisor</label>
+                        </div>
+                        <div>
+                            <input class="finalmsgbox" name="finalmsg" type="text" required>
+                        </div>
+                        <input type="submit" class="btn" value="Mail"></button>
+                    </form>
+                </div>
+
+            </div>
+
+            <script src="script.js"></script>
+</body>
+
+</html>
